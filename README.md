@@ -1,7 +1,5 @@
-# Binder repo for the Jupyter 'HelloWorld' widget
+# Binder repo for the Jupyter d3-slider widget
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PierreMarion23/jupyter-widget-hello-world-binder/master)
 
-The notebook is adapted from the official Jupyter [doc](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20Custom.html), and serves demonstration purposes.
-
-It offers the possibility to test the widget using a [Binder](http://mybinder.readthedocs.io/en/latest/index.html#) image (by clicking on the 'launch binder' button, and waiting a little).
+The notebook provides a demo for a simple slider widget from an [example](https://bl.ocks.org/mbostock/6452972) based on the [D3.js](https://d3js.org/) library.
